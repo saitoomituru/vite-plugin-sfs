@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "zainchen.json",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "kenhowardpdx.vscode-gist",
+        "ms-ceintl.vscode-language-pack-ja",
+        "yzhang.markdown-all-in-one",
+        "esbenp.prettier-vscode",
+    ]
+}

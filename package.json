@@ -1,7 +1,7 @@
 {
-	"name": "vite-plugin-singlefile",
-	"version": "0.5.0",
-	"description": "Vite plugin for inlining JavaScript and CSS resources",
+	"name": "vite-plugin-datasfs",
+	"version": "0.1.0",
+	"description": "Viteで圧縮に圧縮を重ねてDATAURLに出力するplugin",
 	"main": "dist/index.js",
 	"typings": "dist/index.d.ts",
 	"files": [
@@ -19,16 +19,16 @@
 		"SFA",
 		"single-file"
 	],
-	"author": "richard@tallent.us",
+	"author": "Mituru Saitoo",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/richardtallent/vite-plugin-singlefile"
+		"url": "https://github.com/saitoomituru/vite-plugin-singlefile"
 	},
 	"bugs": {
-		"url": "https://github.com/richardtallent/vite-plugin-singlefile/issues"
+		"url": "https://github.com/saitoomituru/vite-plugin-singlefile/issues"
 	},
-	"homepage": "https://github.com/richardtallent/vite-plugin-singlefile/tree/main/#readme",
+	"homepage": "https://github.com/saitoomituru/vite-plugin-singlefile/tree/main/#readme",
 	"dependencies": {
 		"@rollup/plugin-node-resolve": "^11.1.0",
 		"esbuild": "^0.9.0",

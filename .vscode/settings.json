@@ -1,0 +1,9 @@
+{
+  "markdown.styles": [".vscode/style.css"],
+  "files.exclude": {
+    "**/.gitignore": true,
+    ".vscode":true,
+    "node_module":true,
+    "/assets/node_modules":true
+  }
+}
